@@ -1,0 +1,56 @@
+class FeaturedNew{
+  String? id;
+  String? user_id;
+  String? name;
+  String? description;
+  int? type;
+  String? file;
+  String? media_type;
+  String? collection_name;
+  String? collection_symbol;
+  var price;
+  String? first_name;
+  String? last_name;
+  String? user_name;
+  String? email;
+  String? owner_wallet_address;
+  String? owner_wallet_id;
+  String? profile_pic;
+  int? is_on_market_place;
+  int? available;
+  String? created_at;
+  bool? is_private;
+  int? no_of_copy_on_market_place;
+  int? no_of_copy;
+  int? likes_count;
+  int? comment_count;
+  bool? is_liked;
+  FeaturedNew({
+    required this.id,
+    required this.user_id,
+    required this.name,
+    required this.description,
+    required this.type,
+    required this.file,
+    required this.media_type,
+    required this.collection_name,
+    required this.collection_symbol,
+    required this.price,
+    required this.first_name,
+    required this.last_name,
+    required this.user_name,
+    required this.email,
+    required this.owner_wallet_address,
+    required this.owner_wallet_id,
+    required this.profile_pic,
+    required this.is_on_market_place,
+    required this.available,
+    required this.created_at,
+    required this.is_private,
+    required this.no_of_copy_on_market_place,
+    required this.no_of_copy,
+    required this.likes_count,
+    required this.comment_count,
+    required this.is_liked,
+});
+}

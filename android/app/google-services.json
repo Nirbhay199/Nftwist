@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "59322546908",
+    "project_id": "nftwist-1feb5",
+    "storage_bucket": "nftwist-1feb5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59322546908:android:631146cd62cdfeb7e11219",
+        "android_client_info": {
+          "package_name": "com.example.nftwist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59322546908-nmbe8j1uhc11nnl96821rqnoe0h2adsk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nftwist",
+            "certificate_hash": "7ce092118773d66deca78213116536c779bf1d2e"
+          }
+        },
+        {
+          "client_id": "59322546908-efjknnuc7sg613ipncomuq0c1tifmadl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3dG96RtDzq4cUdTnZY7__jgX8eDWtRdA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59322546908-efjknnuc7sg613ipncomuq0c1tifmadl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "59322546908-8p9iciubvt16ld6ga9vc7anmbc8na0g7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nftwist"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
